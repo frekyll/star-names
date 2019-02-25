@@ -1,4 +1,4 @@
-# ✨ star-names
+# ✨ star-names [![Build Status](https://travis-ci.org/frekyll/star-names.svg?branch=master)](https://travis-ci.org/frekyll/star-names)
 > Get popular star names
 
 ## Install
@@ -10,7 +10,7 @@ $ npm install star-names
 ```js
 const starNames = require('star-names')
 
-starNames.random();
+starNames.random()
 //=> 'Mizar'
 ```
 
