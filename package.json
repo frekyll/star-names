@@ -1,0 +1,46 @@
+{
+  "name": "star-names",
+  "version": "1.0.0",
+  "description": "Get popular star names",
+  "license": "MIT",
+  "repository": "frekyll/star-names",
+  "author": {
+    "name": "Josh Wenning",
+    "email": "joshuawenning@gmail.com",
+    "url": "https://www.frekyll.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "standard && ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "star-names.json"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "bin",
+    "word",
+    "words",
+    "list",
+    "array",
+    "random",
+    "rand",
+    "star",
+    "name",
+    "names"
+  ],
+  "dependencies": {
+    "meow": "^5.0.0",
+    "unique-random-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "^1.2.1",
+    "standard": "^12.0.1"
+  }
+}
