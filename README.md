@@ -3,7 +3,7 @@
 
 ## Install
 ```
-$ npm install star-names
+$ npm install @frekyll/star-names
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ Random star name
 
 ## CLI
 ```
-$ npm install --global star-names
+$ npm install --global @frekyll/star-names
 ```
 
 ```
