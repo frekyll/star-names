@@ -1,5 +1,8 @@
 # ✨ star-names [![Build Status](https://travis-ci.org/frekyll/star-names.svg?branch=master)](https://travis-ci.org/frekyll/star-names)
-> Get popular star names
+> Get names of the brightest stars in the sky
+
+![](sky.jpg)
+Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/)
 
 ## Install
 ```

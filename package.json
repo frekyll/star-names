@@ -1,7 +1,7 @@
 {
   "name": "@frekyll/star-names",
-  "version": "1.0.0",
-  "description": "Get popular star names",
+  "version": "1.1.0",
+  "description": "Get names of the brightest stars in the sky",
   "license": "MIT",
   "repository": "frekyll/star-names",
   "author": {
@@ -22,18 +22,18 @@
     "star-names.json"
   ],
   "keywords": [
+    "array",
+    "bin",
     "cli-app",
     "cli",
-    "bin",
-    "word",
-    "words",
     "list",
-    "array",
-    "random",
-    "rand",
-    "star",
     "name",
-    "names"
+    "names",
+    "rand",
+    "random",
+    "star",
+    "word",
+    "words"
   ],
   "dependencies": {
     "meow": "^5.0.0",
