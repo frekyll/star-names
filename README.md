@@ -11,7 +11,7 @@ $ npm install @frekyll/star-names
 
 ## Usage
 ```js
-const starNames = require('star-names')
+var starNames = require('@frekyll/star-names')
 
 starNames.random()
 //=> 'Mizar'
